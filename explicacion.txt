@@ -1,0 +1,3 @@
+He he puesto la mayoria de elementos como atributos debido a que por su naturaleza no pueden tener subelementos, como numero de paginas, o numero de copias.
+Sin embargo, he tenido que poner editorial como elemento, ya que puede haber varias editoriales que editen un libro y también autores, ya que puede haber varios de un mismo libro.
+Por otro lado he tenido que sustituir el ampersand (&) por un "and" debido a que ya sea como elemento o ya sea como atributo el caracter & da errores con el parser XML del navegador y no lo interpreta.

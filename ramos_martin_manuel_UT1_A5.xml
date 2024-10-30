@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca>
+<!--Por Manuel Ramos-->
+<biblioteca>
+    <libro isbn="001-25/98" titulo="El ocho" numero_paginas="300" numero_copias="5">
+        <autores>
+            <autor id_autor="1">Katherine Neville</autor>
+        </autores>
+        <editoriales>
+            <editorial id_editorial="1">Plaza and Janes</editorial>
+        </editoriales>
+    </libro>
+
+    <libro isbn="018-59/01" titulo="El nueve" numero_paginas="450" numero_copias="10">
+        <autores>
+            <autor id_autor="1">Stephen King</autor>
+            <autor id_autor="2">Manuel Ramos</autor>
+        </autores>
+        <editoriales>
+            <editorial id_editorial="1">Plaza and Janes</editorial>
+        </editoriales>
+    </libro>
+</biblioteca>
